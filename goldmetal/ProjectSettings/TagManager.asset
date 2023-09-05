@@ -8,6 +8,7 @@ TagManager:
   - Item
   - Weapon
   - Wall
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -20,13 +21,13 @@ TagManager:
   - Plastic
   - Metal
   - Concrete
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Floor
+  - Player
+  - PlayerBullet
+  - BulletCase
+  - Wall
+  - Enemy
+  - EnemyDead
   - 
   - 
   - 
